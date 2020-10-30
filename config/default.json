@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://alenmula:database@cluster0-pe0o2.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "workout_myJwtSecret"
+}
